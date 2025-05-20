@@ -1,4 +1,4 @@
-# 4.Execution_of_NetworkCommands
+![376962998-3e9d3e80-aee0-4f4f-95dc-7ed937316298](https://github.com/user-attachments/assets/ffebfea8-b89b-4a96-a7e2-10dff51daf0a)# 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,6 +27,8 @@ This commands includes
 <BR>
 
 ## Output
+## PING
+![376962998-3e9d3e80-aee0-4f4f-95dc-7ed937316298](https://github.com/user-attachments/assets/bb55adc9-ac22-428e-ae67-7130787fa280)
 
 ## Result
 Thus Execution of Network commands Performed 
